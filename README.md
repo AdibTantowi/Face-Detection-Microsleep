@@ -9,10 +9,6 @@
 Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem berbasis Python yang mengintegrasikan OpenCV, MediaPipe, dan Tkinter GUI untuk memantau kondisi pengguna selama bekerja. Sistem ini mampu mendeteksi wajah, memantau tingkat kantuk, dan mengatur waktu kerja–istirahat otomatis. Fitur popup subprocess digunakan agar peringatan atau notifikasi muncul di jendela terpisah tanpa mengganggu tampilan utama. Seluruh proses berjalan real-time dan terintegrasi dengan GUI interaktif yang menampilkan status, timer, serta deteksi kamera secara langsung. [Slide Presentasi ](https://www.canva.com/design/DAG3yUKhn_I/yiX45X-ePNh0IJsWycyO4A/edit)
 </div>
 
-`PENGOLAHAN CITRA - PROGRAM STUDI TEKNIK ELEKTRONIKA - POLITEKNIK ELEKTRONIKA NEGERI SURABAYA`
-
-`DOSEN PENGAMPU : Akhmad Hendriawan ST, MT`
-`NIP. 197501272002121003`
 
 # Tujuan
 1. Mendeteksi wajah dan tanda-tanda kantuk pengguna (mata tertutup, menguap, kepala miring) secara real-time melalui kamera.
@@ -35,72 +31,6 @@ Program Smart Work Monitoring System with Drowsiness Detection merupakan sistem 
 | 🧩 Konfigurasi Awal via GUI Setup   | Pengguna dapat menentukan durasi kerja, istirahat, dan waktu persiapan sebelum sistem mulai berjalan.    | 
 
 
-# Teammates
-<div align="center">
-  <img src="./assets/anggota.jpg" alt="latar" width="600px"/>
-</div>
-<table align="center">
-  <thead>
-    <tr>
-      <th width="40px">No.</th>
-      <th width="250px">Nama</th>
-      <th width="120px">NRP</th>
-      <th width="100px">GitHub</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <td>1</td>
-      <td>M. Adib Tantowi Jauhari</td>
-      <td>2122600001</td>
-      <td>
-        <a href="https://github.com/AdibTantowi">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Rizka Sugiharto</td>
-      <td>2122600008</td>
-      <td>
-        <a href="https://github.com/Rizka-sgh">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Muhammad Lukman Al Khakim</td>
-      <td>2122600010</td>
-      <td>
-        <a href="https://github.com/lukmanhakim100523-droid">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>I Gede Wahyu Satria Nugraha</td>
-      <td>2122600033</td>
-      <td>
-        <a href="https://github.com/Gedewsnnn">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Bachtiar Arif Nurdiansyah</td>
-      <td>2122600058</td>
-      <td>
-        <a href="https://github.com/BachtiarArif">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 # Technologies Used
 🐍 Python 3.9+
